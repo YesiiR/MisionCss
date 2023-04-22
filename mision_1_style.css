@@ -1,0 +1,56 @@
+*{
+    object-fit: contain;
+    font-style: initial;
+}
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+.primer_parrafo{
+    padding-left: 40px;
+}
+.segundo_parrafo{
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    display: grid;
+    justify-content: center;
+    
+}
+
+.imagenes{
+    display: flex;
+    justify-content: left;
+    object-fit: scale-down;
+}
+
+.img{
+    padding-left: 40px;
+}
+
+.apple{
+    margin: 10px;
+}
+header{
+    width: 60vh;
+    height: 40vh;
+    display: grid;
+    margin-left: 420px;
+    
+    
+}
+
+.bottom{
+    border: solid 2px orange;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    height: 50px;
+    font-weight: bold;
+    margin-left: 150px;
+}
